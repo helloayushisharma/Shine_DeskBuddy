@@ -1,0 +1,18 @@
+Shi+ne is dual-licensed.
+
+Copyright (c) 2026 Ayushi Sharma and Neha Sadaye
+
+  - Firmware source code (everything in the firmware/ directory) is licensed
+    under the MIT License. See LICENSES/CODE-MIT.txt.
+
+  - All other materials — including hardware designs, CAD/STL files, the
+    build guide, wiring reference, README, and images — are licensed under
+    the Creative Commons Attribution-ShareAlike 4.0 International License
+    (CC BY-SA 4.0). See LICENSES/ASSETS-CC-BY-SA.txt.
+
+Both licenses require attribution to the original authors. The CC BY-SA
+license additionally requires that derivative designs be shared under the
+same license.
+
+For per-file licensing, each source file carries an SPDX-License-Identifier
+header indicating which license applies.

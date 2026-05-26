@@ -1,0 +1,41 @@
+# Local credentials and config
+settings_local.json
+credentials.h
+*.local.*
+
+# Claude Code working files
+.claude/
+.claude-cache/
+.claude_snapshots/
+".cloud snapshots/"
+*snapshot*.md
+session_*.md
+
+# Arduino IDE build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.tmp
+
+# 3D printing slicer outputs
+*.gcode
+*.3mf
+
+# OS and editor clutter
+.DS_Store
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Fusion 360 backups
+*.f3d.bak
+*.backup
+
+# Original build instructions PDF (replaced by docs/BUILD_GUIDE.md)
+Shi+ne_Case_Study*.pdf
+*build_guide*.pdf
+*instructions*.pdf
+"Shine - Step by Step details*.pdf"
